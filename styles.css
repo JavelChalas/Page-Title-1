@@ -1,0 +1,14 @@
+body {
+    background: url('http://24.media.tumblr.com/tumblr_m03b9n0XBy1r9vksao1_500.gif');
+    background-size: cover;
+    text-align: center;
+}
+
+
+img {
+    opacity: .9;
+}
+
+P {
+    color: white;
+}
